@@ -7,6 +7,4 @@ print(type("hola")) # la funcion type me dice que tipo de dato me es la que esta
 print (type(4))
 print (type(5.5))
 
-""" jdkjskdjslkdlñksdlñfkñldksfñlksdldmlñdsñljflslñfjkfjsjfklmfkhjknlfdlvmflmlfdmlmfkmdgklfdlgkfdñlgkldfkgñld,d
-lskldfldskflskdf
-"""
+print ("pruebagitignore")
